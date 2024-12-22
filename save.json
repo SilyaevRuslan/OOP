@@ -1,0 +1,903 @@
+{
+    "ability_manager": {
+        "abilities": [
+            0,
+            2,
+            1
+        ]
+    },
+    "computer": {
+        "field": {
+            "00": {
+                "revealed": false
+            },
+            "01": {
+                "revealed": false
+            },
+            "02": {
+                "revealed": false
+            },
+            "03": {
+                "revealed": false
+            },
+            "04": {
+                "revealed": false
+            },
+            "05": {
+                "revealed": false
+            },
+            "06": {
+                "revealed": false
+            },
+            "07": {
+                "revealed": false
+            },
+            "08": {
+                "revealed": false
+            },
+            "09": {
+                "revealed": false
+            },
+            "10": {
+                "revealed": false
+            },
+            "11": {
+                "revealed": false
+            },
+            "12": {
+                "revealed": false
+            },
+            "13": {
+                "revealed": false
+            },
+            "14": {
+                "revealed": false
+            },
+            "15": {
+                "revealed": false
+            },
+            "16": {
+                "revealed": false
+            },
+            "17": {
+                "revealed": false
+            },
+            "18": {
+                "revealed": false
+            },
+            "19": {
+                "revealed": false
+            },
+            "20": {
+                "revealed": false
+            },
+            "21": {
+                "revealed": false
+            },
+            "22": {
+                "revealed": false
+            },
+            "23": {
+                "revealed": false
+            },
+            "24": {
+                "revealed": false
+            },
+            "25": {
+                "revealed": false
+            },
+            "26": {
+                "revealed": false
+            },
+            "27": {
+                "revealed": false
+            },
+            "28": {
+                "revealed": false
+            },
+            "29": {
+                "revealed": false
+            },
+            "30": {
+                "revealed": false
+            },
+            "31": {
+                "revealed": false
+            },
+            "32": {
+                "revealed": false
+            },
+            "33": {
+                "revealed": false
+            },
+            "34": {
+                "revealed": false
+            },
+            "35": {
+                "revealed": false
+            },
+            "36": {
+                "revealed": false
+            },
+            "37": {
+                "revealed": false
+            },
+            "38": {
+                "revealed": false
+            },
+            "39": {
+                "revealed": false
+            },
+            "40": {
+                "revealed": false
+            },
+            "41": {
+                "revealed": false
+            },
+            "42": {
+                "revealed": false
+            },
+            "43": {
+                "revealed": false
+            },
+            "44": {
+                "revealed": false
+            },
+            "45": {
+                "revealed": false
+            },
+            "46": {
+                "revealed": false
+            },
+            "47": {
+                "revealed": false
+            },
+            "48": {
+                "revealed": false
+            },
+            "49": {
+                "revealed": false
+            },
+            "50": {
+                "revealed": false
+            },
+            "51": {
+                "revealed": false
+            },
+            "52": {
+                "revealed": false
+            },
+            "53": {
+                "revealed": false
+            },
+            "54": {
+                "revealed": false
+            },
+            "55": {
+                "revealed": false
+            },
+            "56": {
+                "revealed": false
+            },
+            "57": {
+                "revealed": false
+            },
+            "58": {
+                "revealed": false
+            },
+            "59": {
+                "revealed": false
+            },
+            "60": {
+                "revealed": false
+            },
+            "61": {
+                "revealed": false
+            },
+            "62": {
+                "revealed": false
+            },
+            "63": {
+                "revealed": false
+            },
+            "64": {
+                "revealed": false
+            },
+            "65": {
+                "revealed": false
+            },
+            "66": {
+                "revealed": false
+            },
+            "67": {
+                "revealed": false
+            },
+            "68": {
+                "revealed": false
+            },
+            "69": {
+                "revealed": false
+            },
+            "70": {
+                "revealed": false
+            },
+            "71": {
+                "revealed": false
+            },
+            "72": {
+                "revealed": false
+            },
+            "73": {
+                "revealed": false
+            },
+            "74": {
+                "revealed": false
+            },
+            "75": {
+                "revealed": false
+            },
+            "76": {
+                "revealed": false
+            },
+            "77": {
+                "revealed": false
+            },
+            "78": {
+                "revealed": false
+            },
+            "79": {
+                "revealed": false
+            },
+            "80": {
+                "revealed": false
+            },
+            "81": {
+                "revealed": false
+            },
+            "82": {
+                "revealed": false
+            },
+            "83": {
+                "revealed": false
+            },
+            "84": {
+                "revealed": false
+            },
+            "85": {
+                "revealed": false
+            },
+            "86": {
+                "revealed": false
+            },
+            "87": {
+                "revealed": false
+            },
+            "88": {
+                "revealed": false
+            },
+            "89": {
+                "revealed": false
+            },
+            "90": {
+                "revealed": false
+            },
+            "91": {
+                "revealed": false
+            },
+            "92": {
+                "revealed": false
+            },
+            "93": {
+                "revealed": false
+            },
+            "94": {
+                "revealed": false
+            },
+            "95": {
+                "revealed": false
+            },
+            "96": {
+                "revealed": false
+            },
+            "97": {
+                "revealed": false
+            },
+            "98": {
+                "revealed": false
+            },
+            "99": {
+                "revealed": false
+            }
+        },
+        "ships": {
+            "ship0": {
+                "length": 4,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 3,
+                "y": 9
+            },
+            "ship1": {
+                "length": 3,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 1,
+                "y": 5
+            },
+            "ship2": {
+                "length": 3,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 6,
+                "y": 0
+            },
+            "ship3": {
+                "length": 2,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 6,
+                "y": 7
+            },
+            "ship4": {
+                "length": 2,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 9,
+                "y": 4
+            },
+            "ship5": {
+                "length": 2,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 0,
+                "y": 7
+            },
+            "ship6": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 9,
+                "y": 7
+            },
+            "ship7": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 6,
+                "y": 2
+            },
+            "ship8": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 1,
+                "y": 3
+            },
+            "ship9": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 7,
+                "y": 5
+            }
+        },
+        "take_double_damage": false
+    },
+    "player": {
+        "field": {
+            "00": {
+                "revealed": false
+            },
+            "01": {
+                "revealed": false
+            },
+            "02": {
+                "revealed": false
+            },
+            "03": {
+                "revealed": false
+            },
+            "04": {
+                "revealed": false
+            },
+            "05": {
+                "revealed": false
+            },
+            "06": {
+                "revealed": false
+            },
+            "07": {
+                "revealed": false
+            },
+            "08": {
+                "revealed": false
+            },
+            "09": {
+                "revealed": false
+            },
+            "10": {
+                "revealed": false
+            },
+            "11": {
+                "revealed": false
+            },
+            "12": {
+                "revealed": false
+            },
+            "13": {
+                "revealed": false
+            },
+            "14": {
+                "revealed": false
+            },
+            "15": {
+                "revealed": false
+            },
+            "16": {
+                "revealed": false
+            },
+            "17": {
+                "revealed": false
+            },
+            "18": {
+                "revealed": false
+            },
+            "19": {
+                "revealed": false
+            },
+            "20": {
+                "revealed": false
+            },
+            "21": {
+                "revealed": false
+            },
+            "22": {
+                "revealed": false
+            },
+            "23": {
+                "revealed": false
+            },
+            "24": {
+                "revealed": false
+            },
+            "25": {
+                "revealed": false
+            },
+            "26": {
+                "revealed": false
+            },
+            "27": {
+                "revealed": false
+            },
+            "28": {
+                "revealed": false
+            },
+            "29": {
+                "revealed": false
+            },
+            "30": {
+                "revealed": false
+            },
+            "31": {
+                "revealed": false
+            },
+            "32": {
+                "revealed": false
+            },
+            "33": {
+                "revealed": false
+            },
+            "34": {
+                "revealed": false
+            },
+            "35": {
+                "revealed": false
+            },
+            "36": {
+                "revealed": false
+            },
+            "37": {
+                "revealed": false
+            },
+            "38": {
+                "revealed": false
+            },
+            "39": {
+                "revealed": false
+            },
+            "40": {
+                "revealed": false
+            },
+            "41": {
+                "revealed": false
+            },
+            "42": {
+                "revealed": false
+            },
+            "43": {
+                "revealed": false
+            },
+            "44": {
+                "revealed": false
+            },
+            "45": {
+                "revealed": false
+            },
+            "46": {
+                "revealed": false
+            },
+            "47": {
+                "revealed": false
+            },
+            "48": {
+                "revealed": false
+            },
+            "49": {
+                "revealed": false
+            },
+            "50": {
+                "revealed": false
+            },
+            "51": {
+                "revealed": false
+            },
+            "52": {
+                "revealed": false
+            },
+            "53": {
+                "revealed": false
+            },
+            "54": {
+                "revealed": false
+            },
+            "55": {
+                "revealed": false
+            },
+            "56": {
+                "revealed": false
+            },
+            "57": {
+                "revealed": false
+            },
+            "58": {
+                "revealed": false
+            },
+            "59": {
+                "revealed": false
+            },
+            "60": {
+                "revealed": false
+            },
+            "61": {
+                "revealed": false
+            },
+            "62": {
+                "revealed": false
+            },
+            "63": {
+                "revealed": false
+            },
+            "64": {
+                "revealed": false
+            },
+            "65": {
+                "revealed": false
+            },
+            "66": {
+                "revealed": false
+            },
+            "67": {
+                "revealed": false
+            },
+            "68": {
+                "revealed": false
+            },
+            "69": {
+                "revealed": false
+            },
+            "70": {
+                "revealed": false
+            },
+            "71": {
+                "revealed": false
+            },
+            "72": {
+                "revealed": false
+            },
+            "73": {
+                "revealed": false
+            },
+            "74": {
+                "revealed": false
+            },
+            "75": {
+                "revealed": false
+            },
+            "76": {
+                "revealed": false
+            },
+            "77": {
+                "revealed": false
+            },
+            "78": {
+                "revealed": false
+            },
+            "79": {
+                "revealed": false
+            },
+            "80": {
+                "revealed": false
+            },
+            "81": {
+                "revealed": false
+            },
+            "82": {
+                "revealed": false
+            },
+            "83": {
+                "revealed": false
+            },
+            "84": {
+                "revealed": false
+            },
+            "85": {
+                "revealed": false
+            },
+            "86": {
+                "revealed": false
+            },
+            "87": {
+                "revealed": false
+            },
+            "88": {
+                "revealed": false
+            },
+            "89": {
+                "revealed": false
+            },
+            "90": {
+                "revealed": false
+            },
+            "91": {
+                "revealed": false
+            },
+            "92": {
+                "revealed": false
+            },
+            "93": {
+                "revealed": false
+            },
+            "94": {
+                "revealed": false
+            },
+            "95": {
+                "revealed": false
+            },
+            "96": {
+                "revealed": false
+            },
+            "97": {
+                "revealed": false
+            },
+            "98": {
+                "revealed": false
+            },
+            "99": {
+                "revealed": false
+            }
+        },
+        "ships": {
+            "ship0": {
+                "length": 4,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 2,
+                "y": 7
+            },
+            "ship1": {
+                "length": 3,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 5,
+                "y": 0
+            },
+            "ship2": {
+                "length": 3,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 9,
+                "y": 1
+            },
+            "ship3": {
+                "length": 2,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 2,
+                "y": 0
+            },
+            "ship4": {
+                "length": 2,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 2,
+                "y": 4
+            },
+            "ship5": {
+                "length": 2,
+                "segments": [
+                    {
+                        "health": 2
+                    },
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 9,
+                "y": 7
+            },
+            "ship6": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": true,
+                "x": 5,
+                "y": 4
+            },
+            "ship7": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 7,
+                "y": 1
+            },
+            "ship8": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 0,
+                "y": 3
+            },
+            "ship9": {
+                "length": 1,
+                "segments": [
+                    {
+                        "health": 2
+                    }
+                ],
+                "vertical": false,
+                "x": 8,
+                "y": 5
+            }
+        },
+        "take_double_damage": false
+    }
+}
